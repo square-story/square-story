@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MOHAMMED SADIK K P</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [Zay-ecommerce](https://github.com/square-story/Zay-Ecommerce)
+- 🔭 I’m currently working on [GreenCommit](https://github.com/newrootrepo/greencommit)
 
 - 🌱 I’m currently learning **React / Nextjs**
 
