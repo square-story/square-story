@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [GreenCommit](https://github.com/newrootrepo/greencommit)
 
-- 🌱 I’m currently learning **React / Nextjs**
+- 🌱 I’m currently learning **DSA - Graph,Trie**
 
 - 💬 Ask me about **MongoDB / Node / Express / HTML 5 / CSS3**
 
