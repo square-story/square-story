@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm MOHAMMED SADIK K P</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [GreenCommit](https://github.com/newrootrepo/greencommit)
+- 🔭 I’m currently working on [Inspect](https://github.com/square-story/Inspecto)
 
-- 🌱 I’m currently learning **DSA - Graph,Trie**
+- 🌱 I’m currently learning **React - axios,radis,shadcnUI,tailwindCss,redux**
 
-- 💬 Ask me about **MongoDB / Node / Express / HTML 5 / CSS3**
+- 💬 Ask me about **MongoDB / Node / Express / HTML 5 / CSS3 / TailwindCss / React / Redux / Redis / ShadcnUI / Axios**
 
 - 📫 How to reach me **shasadik3@gmail.com**
 
