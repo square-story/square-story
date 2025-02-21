@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm MOHAMMED SADIK K P</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [Inspect](https://github.com/square-story/Inspecto)
+- 🔭 I’m currently working on [Inspecto](https://github.com/square-story/Inspecto)
 
-- 🌱 I’m currently learning **React - axios,radis,shadcnUI,tailwindCss,redux**
+- 🌱 I’m currently learning **React - Axios,Radis,
+- shadcnUI,TailwindCss,Redux**
 
 - 💬 Ask me about **MongoDB / Node / Express / HTML 5 / CSS3 / TailwindCss / React / Redux / Redis / ShadcnUI / Axios**
 
