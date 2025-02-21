@@ -3,8 +3,7 @@
 
 - 🔭 I’m currently working on [Inspecto](https://github.com/square-story/Inspecto)
 
-- 🌱 I’m currently learning **React - Axios,Radis,
-- shadcnUI,TailwindCss,Redux**
+- 🌱 I’m currently learning **React - Axios,Radis,shadcnUI,TailwindCss,Redux**
 
 - 💬 Ask me about **MongoDB / Node / Express / HTML 5 / CSS3 / TailwindCss / React / Redux / Redis / ShadcnUI / Axios**
 
