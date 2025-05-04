@@ -15,9 +15,9 @@ I'm a developer focused on creating clean, efficient, and user-friendly solution
 - **Tools**: Git, Docker, AWS, CI/CD
 
 ### 📫 Let's connect
-- [LinkedIn](www.linkedin.com/in/sadikkp)
+- [LinkedIn](https://www.linkedin.com/in/sadikkp)
 - [Email](mailto:sadik.build@gmail.com)
-- [Portfolio](sadik.is-a.dev)
+- [Portfolio](https://sadik.is-a.dev)
 
 ### 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=square-story&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
