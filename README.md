@@ -1,5 +1,5 @@
   
-## **Hi there** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, **I'm SADIK**
+## **Hi** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, **I'm SADIK**
 
 **<strong> MERN Stack Developer</strong> based in <strong>India</strong>**
 
@@ -64,6 +64,9 @@
 <a href="https://github.com/square-story/inspecto">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=square-story&repo=inspecto&theme=dark" />
 </a>
+
+<br/>
+
 <a href="https://github.com/square-story/Zay-Ecommerce">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=square-story&repo=Zay-Ecommerce&theme=dark" />
 </a>
@@ -83,4 +86,7 @@
 
 ---
 
-**Open to collaboration and new opportunities!**
+  **Let's build something amazing together!**
+
+
+
