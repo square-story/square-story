@@ -80,9 +80,7 @@
 ### **📊 GitHub Stats**
 ![square-story's Stats](https://github-readme-stats.vercel.app/api?username=square-story&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=square-story&theme=dark&hide_border=false" />
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=square-story&theme=dark&hide_border=false" />
 
 ---
 
