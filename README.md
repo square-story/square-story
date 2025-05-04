@@ -7,6 +7,7 @@
 
 <details>
   <summary><strong>🎨 Frontend</strong></summary>
+  <br/>
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -23,6 +24,7 @@
 
 <details>
   <summary><strong>🔧 Backend</strong></summary>
+  <br/>
   <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -38,6 +40,7 @@
 
 <details>
   <summary><strong>🧰 Tools & DevOps</strong></summary>
+  <br/>
   <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -61,10 +64,12 @@
 
 <details>
 <summary><strong>🔥 Featured Projects</strong></summary>
+  <br/>
 <a href="https://github.com/square-story/inspecto">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=square-story&repo=inspecto&theme=dark" />
 </a>
 
+<br/>
 <br/>
 
 <a href="https://github.com/square-story/Zay-Ecommerce">
