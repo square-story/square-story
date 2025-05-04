@@ -56,8 +56,30 @@
   </p>
 </details>
 
+---
+
+
+<details>
+<summary><strong>🔥 Featured Projects</strong></summary>
+<a href="https://github.com/square-story/inspecto">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=square-story&repo=inspecto&theme=dark" />
+</a>
+<a href="https://github.com/square-story/Zay-Ecommerce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=square-story&repo=Zay-Ecommerce&theme=dark" />
+</a>
+
+</details>
+
+---
+
+
+
 ### **📊 GitHub Stats**
 ![square-story's Stats](https://github-readme-stats.vercel.app/api?username=square-story&theme=dark&show_icons=true&hide_border=false&count_private=true)
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=square-story&theme=dark&hide_border=false" />
+</div>
 
 ---
 
