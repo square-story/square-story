@@ -80,15 +80,7 @@
 
 ---
 
-
-
-### **📊 GitHub Stats**
-![square-story's Stats](https://github-readme-stats.vercel.app/api?username=square-story&theme=dark&show_icons=true&hide_border=false&count_private=true)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=square-story&theme=dark&hide_border=false" />
-
----
-
+[![square-story's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=square-story&bg_color=151515&color=dadada&line=ffffff&point=00473c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   **Let's build something amazing together!**
 
 
