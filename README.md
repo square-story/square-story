@@ -1,8 +1,4 @@
-### Hi there 👋
-
-I'm a MERN Stack Developer passionate about solving real-world problems with code.
-
-- 🔭 I'm currently working on: Inspecto, Zay, and more
+- 🔭 Building [Inspecto](https://github.com/square-story/inspecto),
 - 🌱 Always learning: Next.js, tRPC, Clean Architecture
 - 🛠️ Most used stacks: React, Next.js, Node.js, TypeScript
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sadikkp/), [Twitter](https://x.com/SadikBuilds), [Email](mailto:sadik.build@gmail.com)
