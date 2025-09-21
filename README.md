@@ -10,9 +10,6 @@ I'm a MERN Stack Developer passionate about solving real-world problems with cod
 
 #### Highlights
 
-<div style="display: flex; gap: 16px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=square-story&theme=dark&hide_border=true" alt="Contribution Stats" />
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=square-story&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
+| ![Contribution Stats](https://github-readme-stats.vercel.app/api?username=square-story&theme=dark&hide_border=true) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=square-story&theme=dark&hide_border=true)](https://git.io/streak-stats) |
+| --- | --- |
+
