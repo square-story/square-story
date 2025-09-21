@@ -1,4 +1,4 @@
-- 🔭 Building [Inspecto](https://github.com/square-story/inspecto),
+- 🔭 Building [greencommit](https://github.com/greencommit),
 - 🌱 Always learning: Next.js, tRPC, Clean Architecture
 - 🛠️ Most used stacks: React, Next.js, Node.js, TypeScript
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sadikkp/), [Twitter](https://x.com/SadikBuilds), [Email](mailto:sadik.build@gmail.com)
